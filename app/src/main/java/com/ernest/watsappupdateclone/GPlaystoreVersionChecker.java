@@ -49,7 +49,7 @@ public class GPlaystoreVersionChecker extends AsyncTask<String, String, String> 
         if(!Variables.versionname.equals(latestVersion) && (latestVersion!=null)){
 
             AlertDialog.Builder alert=new AlertDialog.Builder(context);
-            alert.setTitle("Update  Watsapp Update Clone")
+            alert.setTitle("Update Watsapp Update Clone")
                     .setCancelable(true)
                     .setMessage("There is a new version of Watsapp Update Clone, Please update else after 30 days your version will become out of date .")
                     .setNegativeButton("Update", new DialogInterface.OnClickListener() {
