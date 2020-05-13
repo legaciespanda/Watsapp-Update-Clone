@@ -2,5 +2,6 @@
     <string name="app_name">Watsapp Update Clone</string>
     <string name="download">Download</string>
     <string name="update_title">Update Watsapp Update Clone</string>
-    <string name="update_message">This version of Watsapp Update Clone became out of date on May 11, 2020. Tap</string>
+    <string name="update_message">This version of Watsapp Update Clone became out of date on May 11, 2020. Tap "Download" below to get the latest version from the Google Play Store</string>
+    <string name="update_message_three">Your phone\'s date is May 12, 2020. If this is incorrect please correct your phone\'s date settings then restart Watsapp Update Clone</string>
 </resources>
